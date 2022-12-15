@@ -26,4 +26,6 @@ Learn more about C++/WinRT here:
 http://aka.ms/cppwinrt/
 ========================================================================
 
-https://user-images.githubusercontent.com/75259783/207767271-4e8a6034-88d3-48dc-b41a-b54f72d4be0f.gif
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75259783/207767271-4e8a6034-88d3-48dc-b41a-b54f72d4be0f.gif">
+</p>
